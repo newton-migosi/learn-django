@@ -1,0 +1,2 @@
+origin	https://github.com/sourcelair-blueprints/django-2 (fetch)
+origin	https://github.com/sourcelair-blueprints/django-2 (push)
